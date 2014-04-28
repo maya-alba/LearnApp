@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_puntos"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/puntos"/>
+    <item
+        android:id="@+id/action_acerca"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/acerca"/>
+    <item
+        android:id="@+id/action_sms"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/sms"/>
+   
+
+</menu>

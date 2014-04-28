@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apprende</string>
+
+    <!-- Menu -->
+    <string name="acerca">Acerca</string>
+    <string name="puntos">Highscore</string>
+    <string name="sms">Recomendar</string>
+
+    <!-- Login -->
+    <string name="continuar">Continuar</string>
+    <string name="crear">Crear cuenta</string>
+    <string name="usuario_login">usuario</string>
+    <string name="contrasena_login">contraseña</string>
+
+    <!-- Crear Cuenta -->
+    <string name="crearcuenta">CREAR CUENTA NUEVA</string>
+    <string name="usuario">Usuario:</string>
+    <string name="listo">¡Listo!</string>
+
+    <!-- Enviar SMS -->
+    <string name="recomendacion">¡RECOMIÉNDANOS!</string>
+    <string name="numero_cel">Introduce Número:</string>
+    <string name="txt_recomendacion">Escribe un mensaje:</string>
+    <string name="hint_recomendacion">¡Hola! Descarga el juego Apprende, está muy divertido.</string>
+    <string name="enviar">Enviar</string>
+
+    <!-- Highscore -->
+    <string name="highscore">HIGHSCORE</string>
+
+    <!-- Acerca -->
+    <string name="info">ACERCA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="password">Contraseña</string>
+    <string name="title_activity_drag_drop">DragDropActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
